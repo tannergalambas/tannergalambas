@@ -27,12 +27,11 @@ SEO · Accessibility · Responsive Design · Web Performance
 ### 📌 Featured Projects
 
 - [🎯 Portfolio Website](https://www.tannergalambas.com) – Built with React, GitHub Pages, and custom CSS  
-- [🔧 WordPress Projects](https://github.com/tannergalambas?tab=repositories&q=wordpress) – Theme customization, SEO tuning, and performance optimization  
 - [🛠️ More on GitHub](https://github.com/tannergalambas?tab=repositories)
 
 ---
 
-### 🖥 GitHub Stats _(Optional but eye-catching)_
+### 🖥 GitHub Stats 
 
 ![Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=tannergalambas&show_icons=true&theme=tokyonight)
 
