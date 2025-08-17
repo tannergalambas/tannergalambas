@@ -13,14 +13,24 @@ I'm a Front-End Developer based in Austin, TX, with a passion for building acces
 
 ### ⚙️ Tech Stack
 
-**Languages:**  
-HTML · CSS · JavaScript
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?logo=strapi&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-**Frameworks & Tools:**  
-React · WordPress · Tailwind · Git · Elementor · Strapi
+---
 
-**Skills:**  
-SEO · Accessibility · Responsive Design · Web Performance
+### 🔍 What I’m Up To Now
+
+- 💼 Growing in my current role at Intellibright
+- 🛠️ Building small tools with React + APIs
+- 📚 Exploring TypeScript, Framer Motion, and headless CMS like Strapi
+- 👀 Open to new front-end opportunities in Austin or remote
 
 ---
 
@@ -34,6 +44,8 @@ SEO · Accessibility · Responsive Design · Web Performance
 ### 🖥 GitHub Stats 
 
 ![Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=tannergalambas&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannergalambas&layout=compact&theme=tokyonight)
 
 ---
 
